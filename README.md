@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Skills: C#, .NET, Java, JavaScript, TypeScript, C++, C, SQL, Git, GitHub, <br>Linux Environment,  Object-Oriented Programming (OOP), ASP MVC .NET<br><br>📫 Contact: Email: ahmedalawi01@gmail.com<br><br>⚡ Fun Fact: "World is Ending soon, So better commit your code before you..."
+🔭 Skills: C#, .NET, Java, JavaScript, C++, C, SQL, Git, GitHub, <br>Linux Environment,  Object-Oriented Programming (OOP), ASP MVC .NET<br><br>📫 Contact: Email: ahmedalawi01@gmail.com<br><br>⚡ Fun Fact: "World is Ending soon, So better commit your code before you..."
 
 
 ## 🌐 Socials:
