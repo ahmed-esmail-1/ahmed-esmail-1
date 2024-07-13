@@ -1,5 +1,5 @@
 
-Skills: C#, .NET, Java, JavaScript, C++, C, SQL, Git, GitHub, <br>Linux Environment,  Object-Oriented Programming (OOP), ASP MVC .NET<br><br>Email: ahmedalawi01@gmail.com<br><br>"World is Ending soon, So better commit your code before you..."
+Skills: C#, .NET, Java, JavaScript, C++, C, SQL, Git, GitHub, <br>Linux Environment,  Object-Oriented Programming (OOP), ASP MVC .NET<br><br>Email: info@ahmedesmail.tech<br><br>"World is Ending soon, So better commit your code before you..."
 
 
 
